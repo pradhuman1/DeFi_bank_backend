@@ -1,0 +1,19 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.1",
+    "solc": "^0.8.12",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.7.0"
+  }
+}
